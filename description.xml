@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>dimitris katikaridis</author>
+	<designer>dimitris katikaridis</designer>
+	<title>Ubuntu Terminal</title>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description>Just a terminal</description>
+</watchfaceinfo>
